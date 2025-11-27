@@ -2,7 +2,7 @@
   "name": "Rutero",
   "symbol": "RUTR",
   "description": "Rutero (RUTR) is a Solana-based utility token designed to empower delivery drivers and gig workers across Latin America. RUTR enables fair rewards, fuel discounts, on-chain identity, and new opportunities for thousands of workers who move the economy every day.\n\nRutero is built as a long-term infrastructure project, connecting drivers, customers, and affiliated businesses through a transparent and community-driven ecosystem.\n\nESPAÑOL:\nRutero (RUTR) es un token utilitario en Solana creado para impulsar a repartidores y trabajadores de apps en Latinoamérica. RUTR permite recompensas justas, descuentos en gasolina, identidad on-chain y nuevas oportunidades para miles de personas que mantienen la economía en movimiento.\n\nRutero es un proyecto serio de largo plazo para conectar repartidores, clientes y negocios afiliados en un ecosistema transparente impulsado por la comunidad.",
-  "image": "https://raw.githubusercontent.com/mmartel86/rutero-metadata/refs/heads/main/rutero-logo.png",
+  "image": "https://i.ibb.co/ynwRvdvk/Screenshot-2025-11-23-at-8-58-08-AM.png",
   "attributes": [
     { "trait_type": "Category", "value": "Utility Token" },
     { "trait_type": "Network", "value": "Solana" },
@@ -12,7 +12,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/mmartel86/rutero-metadata/refs/heads/main/rutero-logo.png",
+        "uri": "https://i.ibb.co/ynwRvdvk/Screenshot-2025-11-23-at-8-58-08-AM.png",
         "type": "image/png"
       }
     ],
