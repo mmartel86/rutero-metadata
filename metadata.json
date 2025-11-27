@@ -1,0 +1,20 @@
+{
+  "name": "Rutero",
+  "symbol": "RUTR",
+  "description": "EN: Rutero (RUTR) is a digital asset created to empower delivery workers and gig-economy riders. Our mission is to reward effort, promote financial inclusion, and build a long-term ecosystem where everyday workers can access real value through transparent tokenomics and fair distribution. Rutero connects riders, businesses, and communities through a sustainable, decentralized rewards system built on Solana.\n\nES: Rutero (RUTR) es un activo digital diseñado para apoyar a repartidores y trabajadores de plataformas. Nuestra misión es recompensar el esfuerzo, promover la inclusión financiera y construir un ecosistema a largo plazo donde los trabajadores puedan obtener valor real mediante una distribución justa y transparente. Rutero conecta a repartidores, comercios y comunidades a través de un sistema de recompensas sostenible y descentralizado en la red Solana.",
+  "image": "https://i.ibb.co/ynwRvdvk/Screenshot-2025-11-23-at-8-58-08-AM.png",
+  "attributes": [
+    {
+      "trait_type": "Project Type",
+      "value": "Utility Token"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Solana"
+    },
+    {
+      "trait_type": "Purpose",
+      "value": "Rewards and community empowerment"
+    }
+  ]
+}
