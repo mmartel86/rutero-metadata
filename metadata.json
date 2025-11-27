@@ -1,20 +1,32 @@
 {
   "name": "Rutero",
   "symbol": "RUTR",
-  "description": "EN: Rutero (RUTR) is a digital asset created to empower delivery workers and gig-economy riders. Our mission is to reward effort, promote financial inclusion, and build a long-term ecosystem where everyday workers can access real value through transparent tokenomics and fair distribution. Rutero connects riders, businesses, and communities through a sustainable, decentralized rewards system built on Solana.\n\nES: Rutero (RUTR) es un activo digital diseñado para apoyar a repartidores y trabajadores de plataformas. Nuestra misión es recompensar el esfuerzo, promover la inclusión financiera y construir un ecosistema a largo plazo donde los trabajadores puedan obtener valor real mediante una distribución justa y transparente. Rutero conecta a repartidores, comercios y comunidades a través de un sistema de recompensas sostenible y descentralizado en la red Solana.",
-  "image": "https://i.ibb.co/ynwRvdvk/Screenshot-2025-11-23-at-8-58-08-AM.png",
+  "description": "Rutero (RUTR) is a Solana-based utility token designed to empower delivery drivers and gig workers across Latin America. RUTR enables fair rewards, fuel discounts, on-chain identity, and new opportunities for thousands of workers who move the economy every day.\n\nRutero is built as a long-term infrastructure project, connecting drivers, customers, and affiliated businesses through a transparent and community-driven ecosystem.\n\nESPAÑOL:\nRutero (RUTR) es un token utilitario en Solana creado para impulsar a repartidores y trabajadores de apps en Latinoamérica. RUTR permite recompensas justas, descuentos en gasolina, identidad on-chain y nuevas oportunidades para miles de personas que mantienen la economía en movimiento.\n\nRutero es un proyecto serio de largo plazo para conectar repartidores, clientes y negocios afiliados en un ecosistema transparente impulsado por la comunidad.",
+  "image": "https://raw.githubusercontent.com/mmartel86/rutero-metadata/refs/heads/main/rutero-logo.png",
   "attributes": [
-    {
-      "trait_type": "Project Type",
-      "value": "Utility Token"
-    },
-    {
-      "trait_type": "Network",
-      "value": "Solana"
-    },
-    {
-      "trait_type": "Purpose",
-      "value": "Rewards and community empowerment"
-    }
-  ]
+    { "trait_type": "Category", "value": "Utility Token" },
+    { "trait_type": "Network", "value": "Solana" },
+    { "trait_type": "Sector", "value": "Delivery & Gig Economy" },
+    { "trait_type": "Purpose", "value": "Rewards, Payments, Incentives" }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/mmartel86/rutero-metadata/refs/heads/main/rutero-logo.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "6C8rXNeXZ6c14pPyw6L2iJ195MEtboNLoKd4WARGU7N7",
+        "share": 100
+      }
+    ]
+  },
+  "extensions": {
+    "website": "",
+    "twitter": "",
+    "telegram": "",
+    "documentation": ""
+  }
 }
