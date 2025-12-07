@@ -1,14 +1,10 @@
 {
   "name": "Rutero",
   "symbol": "RUTR",
-  "description": "Rutero (RUTR) is a Solana-based utility token designed to empower delivery drivers and gig workers across Latin America. RUTR enables fair rewards, fuel discounts, on-chain identity, and new opportunities for thousands of workers who move the economy every day.\n\nRutero is built as a long-term infrastructure project, connecting drivers, customers, and affiliated businesses through a transparent and community-driven ecosystem.\n\nESPAÑOL:\nRutero (RUTR) es un token utilitario en Solana creado para impulsar a repartidores y trabajadores de apps en Latinoamérica. RUTR permite recompensas justas, descuentos en gasolina, identidad on-chain y nuevas oportunidades para miles de personas que mantienen la economía en movimiento.\n\nRutero es un proyecto serio de largo plazo para conectar repartidores, clientes y negocios afiliados en un ecosistema transparente impulsado por la comunidad.",
+  "description": "Rutero (RUTR) is a Solana utility token supporting delivery drivers and gig workers across Latin America. It enables fair rewards, fuel benefits, and on-chain identity while building a transparent, community-driven ecosystem for long-term growth.",
   "image": "https://i.ibb.co/ynwRvdvk/Screenshot-2025-11-23-at-8-58-08-AM.png",
-  "attributes": [
-    { "trait_type": "Category", "value": "Utility Token" },
-    { "trait_type": "Network", "value": "Solana" },
-    { "trait_type": "Sector", "value": "Delivery & Gig Economy" },
-    { "trait_type": "Purpose", "value": "Rewards, Payments, Incentives" }
-  ],
+  "external_url": "https://www.notion.so/Rutero-RUTR-2c20acff37d28006ac53e6c2c42fb0db",
+  "attributes": [],
   "properties": {
     "files": [
       {
@@ -16,17 +12,18 @@
         "type": "image/png"
       }
     ],
+    "category": "image",
     "creators": [
       {
-        "address": "6C8rXNeXZ6c14pPyw6L2iJ195MEtboNLoKd4WARGU7N7",
+        "address": "GqniF5QBtNG4W2e9dghw5q1TK6taQDJrKPnnTZR1WmU4",
         "share": 100
       }
     ]
   },
-  "extensions": {
-    "website": "",
-    "twitter": "",
-    "telegram": "",
-    "documentation": ""
+  "links": {
+    "twitter": "https://x.com/ruterorutr",
+    "telegram": "https://t.me/rutero_rutr",
+    "website": "https://www.notion.so/Rutero-RUTR-2c20acff37d28006ac53e6c2c42fb0db",
+    "whitepaper": "https://www.notion.so/RUTERO-RUTR-WHITEPAPER-v1-2c20acff37d2808fb839c0e92652443b"
   }
 }
